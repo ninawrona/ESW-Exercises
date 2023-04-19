@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\ninaw\OneDrive - ViaUC\Dokumenter\VIA\4SEM\ESW\session9_ex9.1\build\CMakeFiles\bc14d235bf6406b82f3ff31a00834cb1\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{41392478-2440-3C37-92A9-EA06D278C340}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

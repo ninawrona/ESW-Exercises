@@ -1,0 +1,10 @@
+^C:\USERS\NINA\DESKTOP\NEW FOLDER\BUILD\CMAKEFILES\F2B36B39DF15C2E1EE8ED049BB281EB7\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/Nina/Desktop/New folder" "-BC:/Users/Nina/Desktop/New folder/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/Nina/Desktop/New folder/build/MyProjectCXX.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

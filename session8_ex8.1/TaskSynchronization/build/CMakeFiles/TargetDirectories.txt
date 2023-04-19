@@ -1,0 +1,3 @@
+C:/Users/ninaw/OneDrive - ViaUC/Dokumenter/VIA/4SEM/ESW/session8_ex8.1/TaskSynchronization/build/CMakeFiles/MyProject.dir
+C:/Users/ninaw/OneDrive - ViaUC/Dokumenter/VIA/4SEM/ESW/session8_ex8.1/TaskSynchronization/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/ninaw/OneDrive - ViaUC/Dokumenter/VIA/4SEM/ESW/session8_ex8.1/TaskSynchronization/build/CMakeFiles/ZERO_CHECK.dir

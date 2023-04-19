@@ -1,0 +1,3 @@
+C:/Users/ninaw/OneDrive/Documents/VIA/4SEM/ESW/MessageBuffer/build/CMakeFiles/MyProject.dir
+C:/Users/ninaw/OneDrive/Documents/VIA/4SEM/ESW/MessageBuffer/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/ninaw/OneDrive/Documents/VIA/4SEM/ESW/MessageBuffer/build/CMakeFiles/ZERO_CHECK.dir

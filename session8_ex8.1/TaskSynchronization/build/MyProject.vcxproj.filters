@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\ninaw\OneDrive - ViaUC\Dokumenter\VIA\4SEM\ESW\session8_ex8.1\TaskSynchronization\main.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ninaw\OneDrive - ViaUC\Dokumenter\VIA\4SEM\ESW\session8_ex8.1\TaskSynchronization\mySecondTask.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ninaw\OneDrive - ViaUC\Dokumenter\VIA\4SEM\ESW\session8_ex8.1\TaskSynchronization\myTask.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ninaw\OneDrive - ViaUC\Dokumenter\VIA\4SEM\ESW\session8_ex8.1\TaskSynchronization\myThirdTask.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ninaw\OneDrive - ViaUC\Dokumenter\VIA\4SEM\ESW\session8_ex8.1\TaskSynchronization\FreeRTOS\Source\croutine.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ninaw\OneDrive - ViaUC\Dokumenter\VIA\4SEM\ESW\session8_ex8.1\TaskSynchronization\FreeRTOS\Source\event_groups.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ninaw\OneDrive - ViaUC\Dokumenter\VIA\4SEM\ESW\session8_ex8.1\TaskSynchronization\FreeRTOS\Source\heap_4.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ninaw\OneDrive - ViaUC\Dokumenter\VIA\4SEM\ESW\session8_ex8.1\TaskSynchronization\FreeRTOS\Source\list.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ninaw\OneDrive - ViaUC\Dokumenter\VIA\4SEM\ESW\session8_ex8.1\TaskSynchronization\FreeRTOS\Source\queue.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ninaw\OneDrive - ViaUC\Dokumenter\VIA\4SEM\ESW\session8_ex8.1\TaskSynchronization\FreeRTOS\Source\stream_buffer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ninaw\OneDrive - ViaUC\Dokumenter\VIA\4SEM\ESW\session8_ex8.1\TaskSynchronization\FreeRTOS\Source\tasks.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ninaw\OneDrive - ViaUC\Dokumenter\VIA\4SEM\ESW\session8_ex8.1\TaskSynchronization\FreeRTOS\Source\timers.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ninaw\OneDrive - ViaUC\Dokumenter\VIA\4SEM\ESW\session8_ex8.1\TaskSynchronization\FreeRTOS\Source\portable\MSVC-MingW\port.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\ninaw\OneDrive - ViaUC\Dokumenter\VIA\4SEM\ESW\session8_ex8.1\TaskSynchronization\CMakelists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{E4778B35-0D85-3F92-A03C-6023CCF68AF1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

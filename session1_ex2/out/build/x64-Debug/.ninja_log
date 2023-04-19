@@ -1,0 +1,5 @@
+# ninja log v5
+9	133	6979335344402236	CMakeFiles/MyProject.dir/calc.c.obj	a4bbffb07def75aa
+16	178	6979335344862165	CMakeFiles/MyProject.dir/sth.c.obj	fd3d86ddb9da43c8
+22	194	6979335345047910	CMakeFiles/MyProject.dir/tempConverter.c.obj	764044a4c2a4df02
+8	27	0	clean	8c45b54705a541e8

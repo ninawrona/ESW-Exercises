@@ -1,0 +1,10 @@
+^C:\USERS\NINAW\ONEDRIVE - VIAUC\DOKUMENTER\VIA\4SEM\ESW\SESSION7_EX7.3\CMAKELISTS.TXT
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/ninaw/OneDrive - ViaUC/Dokumenter/VIA/4SEM/ESW/session7_ex7.3" "-BC:/Users/ninaw/OneDrive - ViaUC/Dokumenter/VIA/4SEM/ESW/session7_ex7.3/build" --check-stamp-file "C:/Users/ninaw/OneDrive - ViaUC/Dokumenter/VIA/4SEM/ESW/session7_ex7.3/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

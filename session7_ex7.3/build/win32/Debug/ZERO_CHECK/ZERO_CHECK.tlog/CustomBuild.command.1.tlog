@@ -1,0 +1,10 @@
+^C:\USERS\NINAW\ONEDRIVE - VIAUC\DOKUMENTER\VIA\4SEM\ESW\SESSION7_EX7.3\BUILD\CMAKEFILES\3C4E68BF4CD5D9B71983B97BBB034381\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/ninaw/OneDrive - ViaUC/Dokumenter/VIA/4SEM/ESW/session7_ex7.3" "-BC:/Users/ninaw/OneDrive - ViaUC/Dokumenter/VIA/4SEM/ESW/session7_ex7.3/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/ninaw/OneDrive - ViaUC/Dokumenter/VIA/4SEM/ESW/session7_ex7.3/build/notmain.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

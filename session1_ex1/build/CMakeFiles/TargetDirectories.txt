@@ -1,0 +1,3 @@
+C:/Users/Nina/Desktop/New folder (2)/build/CMakeFiles/MyProject.dir
+C:/Users/Nina/Desktop/New folder (2)/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Nina/Desktop/New folder (2)/build/CMakeFiles/ZERO_CHECK.dir

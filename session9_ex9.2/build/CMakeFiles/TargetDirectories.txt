@@ -1,0 +1,3 @@
+C:/Users/ninaw/OneDrive - ViaUC/Dokumenter/VIA/4SEM/ESW/session9_ex9.2/build/CMakeFiles/MyProject.dir
+C:/Users/ninaw/OneDrive - ViaUC/Dokumenter/VIA/4SEM/ESW/session9_ex9.2/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/ninaw/OneDrive - ViaUC/Dokumenter/VIA/4SEM/ESW/session9_ex9.2/build/CMakeFiles/ZERO_CHECK.dir
