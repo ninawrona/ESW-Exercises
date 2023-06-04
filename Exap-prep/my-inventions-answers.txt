@@ -1,0 +1,45 @@
+Exercise 1
+It is correct!
+
+It prints out a=3 and b=5.
+
+Exercise 2
+
+The output of this code would be:
+a=5 and b=3
+
+This is because the swap function in this code takes its arguments by value, 
+which means that it receives COPIES of the values of a and b.
+As a result, any changes made to the arguments x and y inside the swap function DO NOT affect the original values of a and b. 
+So when you print the values of a and b after calling the swap function, 
+you see that their values have not changed.
+
+Exercise 3
+
+The comparisons inside the loop in the find_min_max 
+function are comparing the addresses of the max and min variables instead of their values. 
+The statements 
+if(&max < arr[i]) and 
+if(&min > arr[i]) 
+should be changed to 
+if(*max < arr[i]) and 
+if(*min > arr[i]) 
+respectively.
+
+The assignments inside the loop in the find_min_max function are assigning 
+the addresses of the elements in the array to the values pointed to by max and min. 
+The statements 
+*max = arr[i]; and 
+*min = arr[i]; should be changed to
+*max = arr[i]; and 
+*min = arr[i]; respectively.
+
+&max - is an address of the pointer
+*max - this is a value of the pointer
+
+Exercise 4
+A memory leak in C happens when a computer program poorly handles memory allocations 
+and fails to free up the memory that is no longer required. 
+
+Exercise 5.
+It allocates memory in the heap.

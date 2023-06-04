@@ -1,0 +1,70 @@
+//Ex. 1, pointers
+//Is this correct?
+//What is printed out?
+
+void swap(int* x, int* y){
+    int temp;
+    temp = *x;
+    *x = *y;
+    *y = temp;
+} 
+
+int main() {
+    int a = 5;
+    int b = 3; 
+    swap (&a, &b);
+    printf(”a=%d and b=%d\n”, a, b);
+}
+
+
+//Ex.2, values
+//What is printed out here?
+void swap(int x, int y)
+{
+int temp;
+temp = x;
+x = y;
+y = temp;
+}
+
+int main () {
+int a = 5; int b = 3;
+swap (a,b);
+printf(”a=%d and b=%d\n”, a, b);
+}
+
+//Ex. 3, pointers
+//Is this correct?
+//This is a C program that uses pointers to find the minimum and maximum values in an array of integers.
+
+#include<stdio.h>
+
+void find_min_max(int* arr, int n, int* max, int* min){
+    *max = arr[0];
+    *min = arr[0];
+
+    for(int i = 1; i<n; i++){
+        if(&max < arr[i]){
+            &max = arr[i];
+        }
+
+        if(&min > arr[i]){
+            &min = arr[i];
+        }
+    }
+
+} 
+
+//Ex.4 - memory management
+//Can you explain the concept of memory leaks and how to prevent them in C programs?
+
+//Ex. 5 
+//Where does void* malloc(size_tnoOfBytes) allocate space in memory?
+
+In Text
+In Data
+In Heap
+In Stack
+
+
+
